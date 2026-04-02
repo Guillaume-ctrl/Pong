@@ -33,4 +33,6 @@ When the game launches, you will see the start screen. You must choose the initi
 
 ## How to Run
 To compile and launch your game, use the following command in your terminal:
-`cargo run`
+`cargo run` 
+To run test part : 
+`cargo test`
