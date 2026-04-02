@@ -13,6 +13,8 @@
 When the game launches, you will see the start screen. You must choose the initial direction of the ball to begin:
 * Press **Right Arrow**: Ball starts moving toward the right paddle.
 * Press **Left Arrow**: Ball starts moving toward the left paddle.
+* 
+![alt text](image-3.png)
 
 ### Player Movement
 | Player | Up Key | Down Key |
@@ -24,6 +26,9 @@ When the game launches, you will see the start screen. You must choose the initi
 ---
 
 ## Rules & Physics
+
+![alt text](image-4.png)
+
 * **Scoring:** A point is awarded when the ball passes the opponent's paddle and hits the side wall.
 * **Wall Bounces:** The ball will bounce off the top and bottom borders of the arena.
 * **Paddle Physics:** * The ball reverses horizontal direction upon impact.
