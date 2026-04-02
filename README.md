@@ -19,6 +19,7 @@ When the game launches, you will see the start screen. You must choose the initi
 | :--- | :--- | :--- |
 | **Player 1 (Left)** | **Left Shift** | **Left Control** |
 | **Player 2 (Right)** | **Up Arrow** | **Down Arrow** |
+
 ![alt text](main_ori_b946b2c9-ff40-415d-8b70-1efb64e5da61.png)
 ---
 
