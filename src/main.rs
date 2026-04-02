@@ -56,7 +56,7 @@ async fn main() -> Result<(), String> {
     let mut p2 = Paddle::new(KeyCode::Up, KeyCode::Down, 770.0, 250.0)?;
 
     loop {
-        
+
         if my_ball.gm.finished() {
             break;
         }
